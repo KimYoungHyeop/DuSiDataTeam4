@@ -2,6 +2,10 @@
 
 AIFFEL 강남 2기 - 데이터분석 풀잎 4조의 활동을 기록한 레포입니다.
 
+## Contributors
+
+- 김경현, 김민경, 김영협, [서태원](https://github.com/t1seo), 이성주, [이영석](https://github.com/younnggsuk), 이진우
+
 ## 풀잎스쿨 진행방식
 
 ### 풀잎 전
