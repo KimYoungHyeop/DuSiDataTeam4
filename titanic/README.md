@@ -1,8 +1,5 @@
 # Titanic - Machine Learning from Disaster
 
-### 필사 노트북
-- [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
-
 ### 필사 제출 1차 (모델링 제외)
 - [김경현](./김경현_1.ipynb)
 - [김민경](./김민경_1.ipynb)
