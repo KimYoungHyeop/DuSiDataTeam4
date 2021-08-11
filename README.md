@@ -39,4 +39,5 @@ AIFFEL 강남 2기 - 데이터분석 풀잎 4조의 활동을 기록한 레포�
 |날짜|캐글 링크|캐글 노트북|필사 코드|
 |:---:|:---:|:---:|:---:|
 |2021.07.21|<a href="https://www.kaggle.com/c/titanic" target="_blank" rel="noopener noreferrer">Titanic - Machine Learning from Disaster</a>|<a href="https://www.kaggle.com/ash316/eda-to-prediction-dietanic" target="_blank" rel="noopener noreferrer">EDA To Prediction(DieTanic)</a>|[link](./titanic)|
+|2021.08.11|<a href="https://www.kaggle.com/c/bike-sharing-demand" target="_blank" rel="noopener noreferrer">Bike Sharing Demand</a>|<a href="https://www.kaggle.com/viveksrinivasan/eda-ensemble-model-top-10-percentile" target="_blank" rel="noopener noreferrer">EDA & Ensemble Model (Top 10 Percentile)</a>|[link](./bike_sharing)|
 
