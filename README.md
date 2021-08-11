@@ -1,6 +1,6 @@
 # Kaggle Study Team 4
 
-AIFFEL 강남 2기 - 데이터분석 풀잎 4조의 활동을 기록한 repository입니다...
+AIFFEL 강남 2기 - 데이터분석 풀잎 4조의 활동을 기록한 repository입니다.
 
 ## Contributors
 
